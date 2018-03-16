@@ -1,2 +1,2 @@
-# sequelizedBurger
-An iteration of the Burger app using Sequelize as the ORM.
+# burger
+Full stack app using ORMs to modify a MySQL database
